@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning JavaScript and NodeJS!
 - 📆 Currently in a SWE Bootcamp @AppAcademy
 - 💬 Connect or contact me below!
-- ⚡ Fun fact: HUGE Chicago Bears fan, MY MAN DJ MOORE!
+- ⚡ Fun fact: HUGE Chicago Bears fan, MY MAN DJ MOORE! 🐻⬇️
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRtZHQ5ejd2cG9pZzZhZWd0emMxcm90dDZ1Y21pcTUyMnhvaHF4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UvychT0pHq2VjhHNSF/giphy.gif" height=250 />
 
 ## Connect:
