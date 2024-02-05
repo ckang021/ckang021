@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+my+name+is+Chris!+😎;Welcome+to+my+GitHub!;Check+out+what+I+am+learning!+💻)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+my+name+is+Chris!+😎;Welcome+to+my+GitHub!;Check+out+what+I'm+learning!+💻)](https://git.io/typing-svg)
 
 
 <!--
