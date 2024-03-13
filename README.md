@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Data Structures and Algorithms!
+- 🌱 I’m currently learning NodeJS, Express, SQL, SQLite3!
 - 📆 Currently in a SWE Bootcamp @AppAcademy
 - 💬 Connect or contact me below!
 - ⚡ Fun fact: HUGE Chicago Bears fan, MY MAN DJ MOORE! 🐻⬇️
@@ -29,6 +29,9 @@ Here are some ideas to get you started:
 ## Currently Learning:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![SQLite3](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
 
 
 ## Languages Learned:
