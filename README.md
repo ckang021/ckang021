@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning NodeJS, Express, SQL, SQLite3!
+- 🌱 I’m currently learning NodeJS, Express, SQL, SQLite3, and Sequelize!
 - 📆 Currently in a SWE Bootcamp @AppAcademy
 - 💬 Connect or contact me below!
 - ⚡ Fun fact: HUGE Chicago Bears fan, MY MAN DJ MOORE! 🐻⬇️
