@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 📆 Currently in a SWE Bootcamp @AppAcademy
 - 💬 Connect or contact me below!
 - ⚡ Fun fact: HUGE Chicago Bears fan 🐻⬇️
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHBmbTF1amY5M3g1cmFtNGhpNnU0cGQwM3diZmU1c3lhOTB5NGhnayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/skYxWiCHsyJ3i8OLDt/giphy.gif"=200 />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHBmbTF1amY5M3g1cmFtNGhpNnU0cGQwM3diZmU1c3lhOTB5NGhnayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/skYxWiCHsyJ3i8OLDt/giphy.gif" size=200 />
 
 ## Connect:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chris-kang247/)
