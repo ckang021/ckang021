@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning React, Redux, and React Router!
+- 🌱 I’m currently learning Python, Flask, and SQLAlchemy!
 - 📆 Currently in a SWE Bootcamp @AppAcademy
 - 💬 Connect or contact me below!
 - ⚡ Fun fact: HUGE Chicago Bears fan 🐻⬇️
