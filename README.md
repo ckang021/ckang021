@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently building my capstone project!
+- 🌱 I’m currently learning Swift!
 - 📆 Currently in a SWE Bootcamp @AppAcademy
 - 💬 Connect or contact me below!
 - ⚡ Fun fact: HUGE Chicago Bears fan 🐻⬇️
